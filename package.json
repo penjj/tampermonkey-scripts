@@ -1,0 +1,10 @@
+{
+  "name": "@penjj/tampermonkey-scripts",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "A collection of scripts for tampermonkey",
+  "license": "MIT",
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.21.1"
+  }
+}
